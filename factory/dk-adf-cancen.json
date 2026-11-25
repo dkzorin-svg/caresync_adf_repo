@@ -1,0 +1,16 @@
+{
+	"name": "dk-adf-cancen",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "48255bdf-5358-4a8e-90f3-15f95e11e2f9",
+		"tenantId": "9f37a392-f0ae-4280-9796-f1864a10effc"
+	}
+}
