@@ -48,8 +48,7 @@
 						"value": "@activity('read Source Tabe List').output.value",
 						"type": "Expression"
 					},
-					"isSequential": false,
-					"batchCount": 2,
+					"isSequential": true,
 					"activities": [
 						{
 							"name": "Ingest from Source to Silver",
